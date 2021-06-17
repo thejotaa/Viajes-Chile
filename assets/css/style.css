@@ -1,0 +1,34 @@
+body {
+  background-color: #000000;
+}
+
+.my-nav {
+  padding-left: 40px;
+}
+
+h1, h3 {
+  font-family: 'Raleway', sans-serif;
+}
+
+.my-celeste {
+  background-color: #17A2B8;
+}
+
+.color {
+  color: #000000;
+}
+
+.my-contacto {
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.footer {
+  float: left;
+  padding-left: 100px;
+  padding-top: 10px;
+}
+
+.my-footer {
+  margin-right: 80px;
+}
